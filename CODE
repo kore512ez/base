@@ -1,1 +1,5 @@
-[Какой-то тест]
+[    
+for i = 1, 5 do
+        print("Hello, Lua! " .. i)
+    end
+]
